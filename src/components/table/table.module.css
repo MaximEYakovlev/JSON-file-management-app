@@ -1,0 +1,51 @@
+.container {
+    font-family: Arial, sans-serif;
+    font-size: small;
+}
+
+.table {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.table input {
+    margin-right: 10px;
+    padding: 5px;
+    width: 80px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: small;
+}
+
+.table input:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.table tbody tr:hover {
+    background-color: #ddd;
+}
+
+.arrowUp::before,
+.arrowDown::before {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+}
+
+.arrowUp::before {
+    border-bottom: 10px solid rgb(255, 0, 0);
+}
+
+.arrowDown::before {
+    border-top: 10px solid rgba(0, 178, 6, 0.716);
+}
