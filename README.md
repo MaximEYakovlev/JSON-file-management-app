@@ -27,11 +27,10 @@ docker-compose up
 
 Enter [http://127.0.0.1:3000](http://127.0.0.1:3000) to the browser URL bar.
 
-![Screenshot from 2024-02-14 16-19-10](https://github.com/MaximEYakovlev/JSON-to-spreadsheet-app/assets/61206936/a9fa28be-d913-4082-bf4f-130ffc5a579f)
+![Screenshot from 2024-02-14 16-30-54](https://github.com/MaximEYakovlev/JSON-to-spreadsheet-app/assets/61206936/81442e02-971a-4f2b-8e85-6848b0e03cfd)
 
-![Screenshot from 2024-02-14 16-20-23](https://github.com/MaximEYakovlev/JSON-to-spreadsheet-app/assets/61206936/0d502b0f-8c14-48d4-85c8-42670e333dd6)
+![Screenshot from 2024-02-14 16-32-46](https://github.com/MaximEYakovlev/JSON-to-spreadsheet-app/assets/61206936/7a3cbdb2-1f66-49fb-86df-5e4f203b047c)
 
-![Screenshot from 2024-02-14 16-21-51](https://github.com/MaximEYakovlev/JSON-to-spreadsheet-app/assets/61206936/607b9018-8ea6-43ab-b67c-ba113ede80a8)
-
+![Screenshot from 2024-02-14 16-36-22](https://github.com/MaximEYakovlev/JSON-to-spreadsheet-app/assets/61206936/7b1da0b5-37ea-4115-b5ba-05e3bc2f8c7d)
 
 
